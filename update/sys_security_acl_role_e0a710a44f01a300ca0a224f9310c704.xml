@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-06 02:39:09</sys_created_on>
+        <sys_id>e0a710a44f01a300ca0a224f9310c704</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_278463_udayaapp_servicenow_t_udaya.x_278463_udayaapp.servicenow_t_udaya_user</sys_name>
+        <sys_package display_value="UdayaApp" source="x_278463_udayaapp">70d99efb4fb42300ca0a224f9310c709</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="UdayaApp">70d99efb4fb42300ca0a224f9310c709</sys_scope>
+        <sys_security_acl display_value="x_278463_udayaapp_servicenow_t_udaya">14a710a44f01a300ca0a224f9310c701</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e0a710a44f01a300ca0a224f9310c704</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-06 02:39:09</sys_updated_on>
+        <sys_user_role display_value="x_278463_udayaapp.servicenow_t_udaya_user" name="x_278463_udayaapp.servicenow_t_udaya_user">54a79c644f01a300ca0a224f9310c77b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

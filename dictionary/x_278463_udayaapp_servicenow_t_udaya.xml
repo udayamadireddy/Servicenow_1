@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="servicenow_t_udaya" max_length="40" name="x_278463_udayaapp_servicenow_t_udaya" type="collection">
+        <element label="Column udaya1" max_length="10" name="column_udaya1" type="string"/>
+    </element>
+</database>
