@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="table3" language="en" table="x_278463_udayaapp_table3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>table3</label>
+            <language>en</language>
+            <name>x_278463_udayaapp_table3</name>
+            <plural>table3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-06 03:28:12</sys_created_on>
+            <sys_id>03d2a4ec4f01a300ca0a224f9310c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>table3</sys_name>
+            <sys_package display_value="UdayaApp" source="x_278463_udayaapp">70d99efb4fb42300ca0a224f9310c709</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="UdayaApp">70d99efb4fb42300ca0a224f9310c709</sys_scope>
+            <sys_update_name>sys_documentation_x_278463_udayaapp_table3__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-06 03:28:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
